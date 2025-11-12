@@ -194,10 +194,6 @@ for search in searches:
 - **Respect ToS:** Follow website terms of service and scraping policies
 - **Rate Limiting:** Be respectful - don't overwhelm servers with requests
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
