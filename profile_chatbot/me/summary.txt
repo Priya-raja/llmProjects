@@ -1,0 +1,10 @@
+My name is Priya Raja. I'm from Pune,India. I completed my Bachelors of Engineering in Information Technology in the year 2013. I joined as a junior software Engineer
+in Addteq software in Pune, India in the same year. I was selected as the only 1 candidate out of 100 candidate who cam for the interview. I gave 7 rounds of interview as a fresher.
+In Addteq I worked as a automation engineeer and on the company website in jQuery. I learned perl, groovy and python script for automation.
+Then I moved to Dubai after marriage and took a break for 5 years. In these 5 years I took Data science courses from Coursera. I learned Python,react, node js, Javascript,
+Sql, MongoDB, Postgresql. Then I started working as Front end Developer in e-zest solutions in 2021 Feb - 2022 December. I was proud to be again back after a long break and cracking the interview during covid times.
+Then I joined Excellence driving in Dubai in the year 2023 January as a Frontend Dev. Here I expanded my role as a full stack developer. 
+Worked on Node js, microservices, gRPC, React, Next js, Strapi CMS,MongoDB, docker. After 2.7 years of working I took a short break to get into AI.
+As its the future and I was really ver interested in learning as I already knew Python and Data Science. I took up Udemy courses by Ed Donner. Read white papers, you tube videos by Andrej Karpathy.
+Built projects in RAG, learned to deploy to AWS, GCP, Vercel and posting my progress in Linkedin regularly.
+So that's it about me. Always learning and upskilling. Small steps each day and never giving up.
