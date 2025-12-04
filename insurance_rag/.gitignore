@@ -1,0 +1,5 @@
+/.env
+/knowledge-base 
+/vector_db
+/venv
+/env.local
